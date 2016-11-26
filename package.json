@@ -1,7 +1,7 @@
 {
   "name": "numix-archblue-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A Numix-ArchBlue inspired UI theme for Atom",
   "keywords": [
     "ui",
