@@ -7,7 +7,7 @@
     "ui",
     "theme"
   ],
-  "repository": "https://github.com/tsbarnes/numix-ui",
+  "repository": "https://github.com/alogim/numix-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
